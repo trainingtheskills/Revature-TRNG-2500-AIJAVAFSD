@@ -1,7 +1,6 @@
 # Assignment 02: Large Language Models (LLMs)
 ## Instructor Solution Guide
 
-> **For instructors only. Do not distribute to participants.**
 >
 > LLM outputs vary between models, versions and runs. This guide describes what good answers and good model behaviour look like, and flags the patterns you should expect to see. Mark on the quality of the participant's observation and reasoning, not on whether their model produced the same text as the examples here.
 
