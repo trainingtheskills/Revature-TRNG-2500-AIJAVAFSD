@@ -1,7 +1,6 @@
 # Assignment 01: AI Case Study – Supervised & Unsupervised Learning
-## Instructor Solution Guide
+## Solution Guide
 
-> **For instructors only. Do not distribute to participants.**
 >
 > This guide gives model answers, marking notes and common mistakes. Participants' answers will vary in wording. Award marks for correct reasoning, not for matching this text word for word.
 
