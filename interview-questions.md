@@ -222,16 +222,3 @@ Chat APIs are stateless, so the full history is resent as input on every turn. C
 Larger models give better reasoning and quality but cost more and respond more slowly. Smaller models are faster and cheaper but weaker on complex tasks. Choose the **smallest model that meets your quality bar**, and validate that with your own evaluation set.
 
 ---
-
-## Quick Rapid-Fire Round
-
-| Question | Short answer |
-|---|---|
-| ML in one line? | Learning patterns from data instead of explicit rules |
-| BERT is good for…? | Understanding tasks (classification, search) |
-| GPT is good for…? | Generation |
-| Best way to give an LLM fresh private data? | RAG |
-| What reduces hallucination most? | Grounding with retrieved sources |
-| Which tokens cost more? | Output tokens |
-| First cost lever? | Choose a smaller model and shorten prompts |
-| Clustering is…? | Unsupervised |
