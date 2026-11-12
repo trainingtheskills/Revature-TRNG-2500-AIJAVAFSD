@@ -1,4 +1,4 @@
-# AI Orientation: Popular Interview Questions with Answers
+# AI Orientation: Sample Interview Questions with Answers
 
 ## 1. AI Introduction
 
