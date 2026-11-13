@@ -71,17 +71,6 @@ Edit `SpringToolSuite4.ini` (on macOS: right-click the app > *Show Package Conte
 
 ---
 
-## 5. Create a Test Spring Boot Project
-
-1. **File > New > Spring Starter Project**
-2. Fill in name, Maven or Gradle, Java version, and package.
-3. Click **Next**, add dependencies (e.g. *Spring Web*), then **Finish**.
-4. Wait for dependencies to download (progress bar bottom right).
-5. Right-click the project > **Run As > Spring Boot App**.
-6. Open http://localhost:8080 to confirm it runs.
-
----
-
 ## 6. Set Up GitHub Copilot in STS
 
 STS is built on Eclipse, so you use the official **GitHub Copilot for Eclipse** plugin.
